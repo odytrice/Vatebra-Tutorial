@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace Vatebra.Testing
 {
@@ -6,21 +7,16 @@ namespace Vatebra.Testing
     {
         static void Main(string[] args)
         {
-            int x = 0;
-            while (x <= 10)
+            int[] array = new[] { 10, 15, 27, 33 };
+
+            foreach (int item in array)
             {
-                Console.WriteLine(x);
-                x = x + 1;
+                Console.WriteLine(item);
             }
 
-            for (int i = 0; i <= 10; i++)
+            foreach(int item in Enumerable.Range(1, 50))
             {
-                Console.WriteLine(i);
-            }
-
-            for (int j = 0; j < 10; j++)
-            {
-                Console.WriteLine(j);
+                Console.WriteLine(item);
             }
         }
     }
