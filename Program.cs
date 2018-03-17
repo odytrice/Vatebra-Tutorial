@@ -7,7 +7,7 @@ namespace Vatebra.Testing
     {
         static void Main(string[] args)
         {
-            GuessingGame.Run();
+            Program4.Run();
         }
     }
 }
