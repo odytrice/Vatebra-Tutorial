@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Linq;
+using Testing.Lecture04;
 
 namespace Vatebra.Testing
 {

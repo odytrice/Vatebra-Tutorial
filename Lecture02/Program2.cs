@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Vatebra.Testing
+namespace Testing.Lecture02
 {
     class Program2
     {

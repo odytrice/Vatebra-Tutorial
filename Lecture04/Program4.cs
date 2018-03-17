@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Vatebra.Testing
+namespace Testing.Lecture04
 {
     public class Program4
     {
