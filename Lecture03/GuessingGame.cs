@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Vatebra.Testing
+namespace Testing.Lecture03
 {
     public class GuessingGame
     {

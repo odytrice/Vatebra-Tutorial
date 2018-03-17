@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Testing.Lecture02
 {
-    class Program2
+    class Module
     {
         public static void Run()
         {
